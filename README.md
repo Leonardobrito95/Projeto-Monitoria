@@ -26,19 +26,20 @@ The system allows supervisors and analysts to register, analyze, and visualize m
 
 ---
 
-## 📸 Screenshots!
-
-![Dashboard Example](<img width="1484" height="810" alt="Dashboard" src="https://github.com/user-attachments/assets/4b9069fe-c52a-4a99-844e-1ea2be5dea2a" />)
+## 📸 Screenshots
+(Add screenshots in the `assets/` folder)
 
 ---
 
 ## 📂 Project Structure
+```
 monitoria-qualidade/
-│── monitoria.py # Main application
-│── requirements.txt # Dependencies
-│── README.md # Documentation
-│── assets/ # Images, logos, screenshots
-│── data/ # SQLite database (monitoria.db)
+│── monitoria.py         # Main application
+│── requirements.txt     # Dependencies
+│── README.md            # Documentation
+│── assets/              # Images, logos, screenshots
+│── data/                # SQLite database (monitoria.db)
+```
 
 ---
 
@@ -48,20 +49,28 @@ monitoria-qualidade/
    ```bash
    git clone https://github.com/SEU-USUARIO/monitoria-qualidade.git
    cd monitoria-qualidade
+   ```
+
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
+
 3. Run the application:
    ```bash
-   python monitoriaatt.py
-   
-Example of Generated Reports
-1.Agent performance dashboards
-2.Non-compliance reports
-3.Time-based performance tracking
+   python monitoria.py
+   ```
 
-👨‍💻 Author
-Leonardo Brito
-LinkedIn (https://www.linkedin.com/in/leonardobrito95/) | Email 
+---
 
+## 📈 Example of Generated Reports
+- Agent performance dashboards  
+- Non-compliance reports  
+- Time-based performance tracking  
 
+---
+
+## 👨‍💻 Author
+**Leonardo Brito**  
+[LinkedIn](https://linkedin.com/in/leonardobrito95) | [Email](mailto:leonardo.matheus10@hotmail.com)  
+---
