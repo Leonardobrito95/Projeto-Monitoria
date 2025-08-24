@@ -32,3 +32,35 @@ The system allows supervisors and analysts to register, analyze, and visualize m
 ---
 
 ## 📂 Project Structure
+monitoria-qualidade/
+│── monitoria.py # Main application
+│── requirements.txt # Dependencies
+│── README.md # Documentation
+│── assets/ # Images, logos, screenshots
+│── data/ # SQLite database (monitoria.db)
+
+---
+
+## ▶️ How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/SEU-USUARIO/monitoria-qualidade.git
+   cd monitoria-qualidade
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the application:
+   ```bash
+   python monitoriaatt.py
+   
+Example of Generated Reports
+1.Agent performance dashboards
+2.Non-compliance reports
+3.Time-based performance tracking
+
+👨‍💻 Author
+Leonardo Brito
+LinkedIn https://www.linkedin.com/in/leonardobrito95/ | Email 
+
+
